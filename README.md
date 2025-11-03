@@ -1,4 +1,4 @@
-## 🧪 Hi, I'm Steave — Game Server & Backend Developer 🧪
+## Hi, I'm Steave — Game Server & Backend Developer 
 
 ## 💬 Contact Me
 
@@ -9,18 +9,6 @@
 🧑‍💻 I'm focused on **game server development and customization**, as well as **web development** and **Linux server administration**.  
 I love exploring how things work — from databases and code logic to performance optimization and network systems.  
 
----
-
-## 🔧 What I Do
-
-- ⚙️ Development and customization of **game servers** (e.g. AzerothCore – World of Warcraft)
-- 🌐 Building **websites** using PHP, HTML, CSS, and **MySQL** integration
-- 🧩 Managing and optimizing **Linux servers** (VPS, dedicated, and home servers)
-- 💾 Creating **automation and backup scripts** (MySQL rotation + FTP upload)
-- 🧠 Learning **C++**, **C#**, and **Python**, experimenting with **Unreal Engine**
-
----
-
 ## 🧰 Technologies & Tools
 
 | Category | Technologies |
@@ -28,27 +16,8 @@ I love exploring how things work — from databases and code logic to performanc
 | 💻 Programming | C++, C#, Python, PHP, SQL |
 | 🌍 Web | HTML, CSS, JS, PHP, MySQL |
 | 🧩 Game Dev | AzerothCore (C++), Unreal Engine |
-| 🖥️ Servers | Linux (Ubuntu, Debian), Bash, FTP, MySQL |
+| 🖥️ Servers | Linux (Ubuntu, Debian), Bash, FTP, MySQL | -> Dedicated Servers & Hosting
 | 🧪 Tools | Git, Visual Studio Code, Postman, DBeaver |
-
----
-
-## 🚀 Projects I'm Working On
-
--🧩 AzerothCore Module Development
- Creating and improving C++ modules — including a dynamic teleporter system, advanced database integrations, and QoL enhancements.
- All modules are designed to be thread-safe, scalable, and production-ready.
-
-- 🌍 **AoWoW Instance Integration**  
-  Connected with AzerothCore database — fixed search functionality and localization for quests and items.
-
-- 💾 **Automatic MySQL Backup System**  
-  Daily, weekly, and monthly rotation with FTP upload and email notifications on errors.
-
-- 🖥️ Dedicated Servers & Hosting
-Running and maintaining servers for personal and project use — both local and remote.
-
----
 
 ## 📚 Currently Learning
 

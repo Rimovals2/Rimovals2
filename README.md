@@ -19,8 +19,3 @@ I love exploring how things work — from databases and code logic to performanc
 | 🖥️ Servers | Linux (Ubuntu, Debian), Bash, FTP, MySQL | -> Dedicated Servers & Hosting
 | 🧪 Tools | Git, Visual Studio Code, Postman, DBeaver |
 
-## 📚 Currently Learning
-
-- 🔹 **C#** – for practical utilities and smaller desktop tools  
-- 🔹 **C++** – for game server scripting and core module development  
-- 🔹 **Performance optimization** and thread-safe architecture for large-scale servers
